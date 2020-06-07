@@ -1,1 +1,2 @@
-# Planta---Plant-Disease-Classification-CNN-
+# Plant-Disease-Classification
+
